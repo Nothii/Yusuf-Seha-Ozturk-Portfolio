@@ -17,7 +17,7 @@ A responsive developer portfolio built from the information in Yusuf Seha Öztü
 - Contact
 
 ## Projects included
-Delficase, Lupinnyleather, Rennaleather, Venitoleather, Top PVC.NL, Vloerenkamer, Boulettacase, Dr Fatih Yildiz, Admirarestorasyon and Maduem.
+Delficase, Lupinnyleather, Rennaleather, Venitoleather, Top PVC.NL, Vloerenkamer, Boulettacase, Dr Fatih Yildiz, Admirarestorasyon, GoWithSocks and Maduem.
 
 ## Personalization
 Replace the placeholder/summary text if you want to add:
